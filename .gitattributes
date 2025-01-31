@@ -1,0 +1,2 @@
+Assets/Overtone/Plugins/iOS/libovertone.a filter=lfs diff=lfs merge=lfs -text
+Assets/Overtone/Resources/en-us-libritts-high.bytes filter=lfs diff=lfs merge=lfs -text
